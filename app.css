@@ -1,0 +1,46 @@
+.container {
+    max-width: 847px;
+    margin: 24px auto;
+    padding: 20px;
+    background-color: #ffffff;
+}
+  
+h1 {
+  font-size: 3em;
+  margin-bottom: 61px;
+  text-align: center;
+  color: #2b0000;
+}
+  
+ form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    color: #3c1a1a;
+    font-size: 20.8px;
+    margin-bottom: 5px;
+}
+  
+select {
+  font-size: 1.2em;
+  padding: 0px 0px;
+  border: 1px solid #3c1a1a;
+  border-radius: 3px;
+  margin-bottom: 18px;
+}
+button[type="submit"] {
+  background-color: #3c1a1a;
+  color: rgb(255, 255, 255);
+  font-size: 16.2px;
+  padding: 0px 17px;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+  
